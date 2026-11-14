@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "claude": [
+    { "id": "opus", "label": "Opus" },
+    { "id": "sonnet", "label": "Sonnet" },
+    { "id": "haiku", "label": "Haiku" }
+  ],
+  "gemini": [
+    { "id": "auto", "label": "Auto" },
+    { "id": "pro", "label": "Pro" },
+    { "id": "flash", "label": "Flash" },
+    { "id": "flash-lite", "label": "Flash-Lite" }
+  ]
+}
